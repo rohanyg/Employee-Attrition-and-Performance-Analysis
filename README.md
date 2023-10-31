@@ -1,5 +1,5 @@
 # Employee-Attrition-and-Performance-Analysis
-Employee Attrition and Performance Analysis uses Power BI, SQL, Excel and Tableau to to gain insights into the factors influencing employee attrition and performance within the organization by performing data analysis on the HR dataset. 
+Employee Attrition and Performance Analysis uses Power BI, SQL, Excel and Tableau to gain insights into the factors influencing employee attrition and performance within the organization by performing data analysis on the HR dataset. 
 
 ## Table of Contents
 - [Project Overview](#project-overview)
@@ -34,11 +34,11 @@ Excel Data
 
 ### Data Cleaning/Preparation
 
-Checked for presence of duplicates and eliminated them.
-Removing irrelevant columns.
-Data type standardization.
-Formatting dates for consistency.
-Formatted numerical data for consistency.
+- Checked for presence of duplicates and eliminated them.
+- Removing irrelevant columns.
+- Data type standardization.
+- Formatting dates for consistency.
+- Formatted numerical data for consistency.
 
 [EmpAttritionPowerBI.pdf](https://github.com/rohanyg/Employee-Attrition-and-Performance-Analysis/files/13219898/EmpAttritionPowerBI.pdf)
 [EmpAttritionTableau.pdf](https://github.com/rohanyg/Employee-Attrition-and-Performance-Analysis/files/13219905/EmpAttritionTableau.pdf)

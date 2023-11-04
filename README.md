@@ -41,9 +41,6 @@ Excel Data
 - Formatting dates for consistency.
 - Formatted numerical data for consistency.
 
-[EmpAttritionPowerBI.pdf](https://github.com/rohanyg/Employee-Attrition-and-Performance-Analysis/files/13219898/EmpAttritionPowerBI.pdf)
-[EmpAttritionTableau.pdf](https://github.com/rohanyg/Employee-Attrition-and-Performance-Analysis/files/13219905/EmpAttritionTableau.pdf)
-[EmpAttritionExcel.pdf](https://github.com/rohanyg/Employee-Attrition-and-Performance-Analysis/files/13219913/EmpAttritionExcel.pdf)
 
 
 ### Inferences

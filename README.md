@@ -7,6 +7,7 @@ Employee Attrition and Performance Analysis uses Power BI, SQL, Excel and Tablea
 - [Data Source](#data-source)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
 - [Inferences](#inferences)
+- [Recommendations](#recommendations)
 - [Limitations](#limitations)
   
 ### Project Overview
@@ -51,20 +52,29 @@ inferences from the analysis:
 So we can say the attrition rate of the organization is at a dangerous level.Therefore the organization should take measures to reduce the attrition rate.
 2. Employees count in all department is almost same. Most of the employees are from Sales Department that is 16.97%, then HR 16.96 %. Attrition Rate is also high in the Sales Department and HR Department.
 3. The organization is doing well by spliting travelling among the employees to reduce the burden of employees who travel frequently.
-4. Attrition Rate is more in the age 20 to 50 . It goes decreasing when age is goes greater than 50.
+4. Attrition Rate is more and almost same in the age 20 to 50 . It goes decreasing when age is goes greater than 50.
 5. Attrition Rate in male and female is almost same.In males attrition rate  is 50.27% and in female  49.73%.
 The male employees in the organization accounts 50.12% and female accounts 49.88%. 
 6. Most employees is working as Sales executive, Healthcare Represenatative or an Manager in this organization. Highest attrition rates are in sector of Research Scientist, healthcare Representative and Sales Executive. 
 7. Most of the employees are from Medical Education Field. The distribution of employees from other education field is almost similar that is around 16%. Attrition Rate is high in medical field that is 17.01% and life sciences that is 16.95% of total.Least employees are from Marketing Education Field and attrition rate is low .
 8. Total Working Years, DailyRate, Hourly Rate, and Monthlty Rate do not exhibit any correlation with Attrition Rate. 
-9. Employee who has worked for 2 to 4 years in the same role are having very high attrition rate. Employee who has worked for 10+ years in the same role are having low attrition .young people are leaving the organisation. same goes with number of working years at company.
+9. Employee who has worked for 2 to 4 years in the same role are having very high attrition rate. Employee who has worked for 10+ years in the same role are having low attrition. Employees gaining 2 to 4 years experience are leaving the organisation. May be they are finding better opportunity somewhere else.
 10. Most of the employees have rated their job satisfaction same for all level. Employees who rated their job satisfaction low are mostly leaving the organization.
 11. we can't generate any meaningful inisghts from percentage salary hike,performance rating and relationship rating with attrition rate
-12. Attrition rate is high at the Entry Level for 1 and 2 level compared to other levels.As the level increases the attrition rate decreases.
+12. Attrition rate is high at the Entry Level for 1 and 2 level compared to other levels. As the level increases the attrition rate decreases.
 13. The Distance From Home doesn't follows any trend in attrition rate.
 14. The attrition rate is same around all relationship status but its slightly higher in case of single and divorced.
 15. Attrition Rate is around 25 % for 1 year since last promotion. Almost 49% of employee has not been promoted about 1 to 4 years. attrition rate is also around 49% in case of 1 to 4 years.
 16. Almost 56.63% of employees has worked for 1-5 years with the same manager. Employees has worked for 1-5 years with the same manager is having high attrition rate.
+
+### Recommendations:
+1. Enhanced Benefits and Compensation Packages: Offering competitive salary packages, bonuses and benefits to retain employees.
+2. Improve Job Satisfaction: Address concerns related to workload, workplace culture, and management. Conducting regular employee satisfaction surveys to identify the area of improvements.
+3. Recognition and Appreciation:  appreciate the employee efforts and recognize the employees achievement and milestones.
+4. Promote Work-Life Balance: Encourage employees to take their allocated vacation days and work life balance is crucial for the long term employee retention.
+5. Exit Interviews; To learn why an employee is leaving. Gain feedback on employee experiences and understand how company can improve.
+6. Professional Development Opportunities: training programs and career development initiatives, empowering employees to upskill and progress in their careers within the organization.
+7. Promote Diversity and Inclusion: Employees from various backgrounds feel respected and valued. Providing equal opportunities for all employees to grow within the organization.
 
 ### Limitations 
 - The datasets might lack certain contextual information about the employees, such as personal challenges, external factors affecting their work, or specific project details. This missing context could limit the depth of your analysis.

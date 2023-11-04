@@ -6,6 +6,7 @@ Employee Attrition and Performance Analysis uses Power BI, SQL, Excel and Tablea
 - [Problem Statement](#problem-statement)
 - [Data Source](#data-source)
 - [Data Cleaning/Preparation](#data-cleaningpreparation)
+- [Live Dashboard](#live-dashboard)
 - [Inferences](#inferences)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
@@ -41,7 +42,8 @@ Excel Data
 - Formatting dates for consistency.
 - Formatted numerical data for consistency.
 
-
+### Live Dashboard:
+https://app.powerbi.com/groups/f88608e2-9025-4f16-b2cc-192d22d94d86/reports/89807965-fabd-4cf2-905c-04b3bfec37ac/ReportSection6106d9c2200b0056ac19?experience=power-bi
 
 ### Inferences
 inferences from the analysis:

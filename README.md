@@ -49,6 +49,11 @@ https://app.powerbi.com/groups/me/reports/7cb11d2e-8f5b-4900-a38f-e3eb0d2a472b/R
 Tableau:
 https://public.tableau.com/app/profile/rohanyg/viz/EmployeeAttritionandPerformanceAnalysis/attritionratebydepartment?publish=yes
 
+![EmployeeAttritionandPerformanceAnalysispage2](https://github.com/rohanyg/Employee-Attrition-and-Performance-Analysis/assets/136742005/60d6fe1b-e426-4fd7-bfe9-30d963fec482)
+![EmployeeAttritionandPerformanceAnalysis3](https://github.com/rohanyg/Employee-Attrition-and-Performance-Analysis/assets/136742005/7b73d90e-65b0-4256-a7b3-80a7ef72c399)
+![EmployeeAttritionandPerformanceAnalysis_page-0001](https://github.com/rohanyg/Employee-Attrition-and-Performance-Analysis/assets/136742005/7b123a39-d81d-46e5-aef7-4e8762d576f6)
+![EmpAttritionExcel_page-0001](https://github.com/rohanyg/Employee-Attrition-and-Performance-Analysis/assets/136742005/97de8911-614f-441b-b16d-4633d9bcdf40)
+
 ### Inferences
 inferences from the analysis:
 1. The employee attrition rate of this organization is 50.21%. According to experts in the field of Human Resources, attrition rate less than 10%  is considered as low and healthy in organization.

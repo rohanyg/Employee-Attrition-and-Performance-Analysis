@@ -48,10 +48,15 @@ https://app.powerbi.com/groups/me/reports/7cb11d2e-8f5b-4900-a38f-e3eb0d2a472b/R
 
 Tableau:
 https://public.tableau.com/app/profile/rohanyg/viz/EmployeeAttritionandPerformanceAnalysis/attritionratebydepartment?publish=yes
+Dashboard using Power BI:
 
 ![EmployeeAttritionandPerformanceAnalysispage2](https://github.com/rohanyg/Employee-Attrition-and-Performance-Analysis/assets/136742005/60d6fe1b-e426-4fd7-bfe9-30d963fec482)
 ![EmployeeAttritionandPerformanceAnalysis3](https://github.com/rohanyg/Employee-Attrition-and-Performance-Analysis/assets/136742005/7b73d90e-65b0-4256-a7b3-80a7ef72c399)
+
+Dashboard using Tableau:
 ![EmployeeAttritionandPerformanceAnalysis_page-0001](https://github.com/rohanyg/Employee-Attrition-and-Performance-Analysis/assets/136742005/7b123a39-d81d-46e5-aef7-4e8762d576f6)
+
+Dashboard using Excel:
 ![EmpAttritionExcel_page-0001](https://github.com/rohanyg/Employee-Attrition-and-Performance-Analysis/assets/136742005/97de8911-614f-441b-b16d-4633d9bcdf40)
 
 ### Inferences

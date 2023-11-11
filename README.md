@@ -43,7 +43,11 @@ Excel Data
 - Formatted numerical data for consistency.
 
 ### Live Dashboard:
-https://app.powerbi.com/groups/f88608e2-9025-4f16-b2cc-192d22d94d86/reports/89807965-fabd-4cf2-905c-04b3bfec37ac/ReportSection6106d9c2200b0056ac19?experience=power-bi
+Power BI:
+https://app.powerbi.com/groups/me/reports/7cb11d2e-8f5b-4900-a38f-e3eb0d2a472b/ReportSection5e54a9e4f1ad1c6f2dbe?experience=power-bi
+
+Tableau:
+https://public.tableau.com/app/profile/rohanyg/viz/EmployeeAttritionandPerformanceAnalysis/attritionratebydepartment?publish=yes
 
 ### Inferences
 inferences from the analysis:
